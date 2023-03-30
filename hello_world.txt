@@ -1,1 +1,2 @@
 this is a test
+Testing VSCode waiting on message-less commit
